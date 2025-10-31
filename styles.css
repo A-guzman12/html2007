@@ -209,24 +209,24 @@ Your Playground (Make customizations and changes below)
 *****************************************************************/
 
 body {
-    background-color: #fff; /* Change background color */
+    background-color: #b898ed; /* Change background color */
 }
 
 /************************    navbar   ***************************/
 
 nav {
-       background-color: #ffffff;
-       border-bottom: 2px solid #e0e0e0;
+       background-color: #342a58;
+       border-bottom: 2px solid #cdbfeb;
 }
 
 nav img {
-    border: #333333 dotted 2px;
+    border: #69a9d9 dotted 2px;
 
 }
 
 nav ul li a {
     text-decoration: none;
-    color: #333333;
+    color: #e47bf4;
     font-weight: bold;
 }
 
@@ -239,7 +239,7 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #333333;
+    color: #2e2743;
     font-weight: bold;
 }
 
@@ -273,7 +273,7 @@ ul li a {
 
 /**********************    aboutme styles   *********************/
 .about-me .about-me-text *{
-    border:#333333 dotted 2px;
+    border:#752121 dotted 2px;
 }
 
 /*********************    friends     *********************/
